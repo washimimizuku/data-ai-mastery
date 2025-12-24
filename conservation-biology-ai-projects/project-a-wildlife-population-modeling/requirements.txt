@@ -44,3 +44,4 @@ pytest-cov>=3.0.0
 # Optional: Advanced population modeling
 # rpy2>=3.5.0              # R integration for demographic analysis
 # pystan>=3.0.0            # Bayesian population models
+pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
