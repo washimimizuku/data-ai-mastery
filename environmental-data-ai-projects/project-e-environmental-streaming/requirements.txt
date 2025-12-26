@@ -56,3 +56,4 @@ pytest-cov>=3.0.0
 # kubernetes>=24.0.0       # For K8s deployment
 # redis>=4.3.0            # For caching and pub/sub
 # celery>=5.2.0           # For background tasks
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
