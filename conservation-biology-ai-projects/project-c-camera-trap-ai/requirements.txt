@@ -26,7 +26,7 @@ roboflow>=1.0.0
 supervision>=0.1.0  # Computer vision utilities
 
 # Model deployment
-onnx>=1.12.0
+onnx>=1.16.2
 onnxruntime>=1.12.0
 
 # Web interface
