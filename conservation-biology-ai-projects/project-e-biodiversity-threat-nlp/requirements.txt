@@ -59,3 +59,4 @@ pytest-cov>=3.0.0
 # torch>=1.12.0            # For custom model training
 # sentence-transformers>=2.2.0  # Semantic similarity
 # gensim>=4.2.0            # Topic modeling
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
