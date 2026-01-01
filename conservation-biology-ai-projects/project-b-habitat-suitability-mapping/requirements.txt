@@ -53,3 +53,4 @@ pytest-cov>=3.0.0
 # maxentpy>=0.1.0          # Python MaxEnt implementation
 # biomod2>=4.0.0           # R ensemble modeling (via rpy2)
 protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
