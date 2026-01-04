@@ -25,7 +25,7 @@ sqlite3  # Built-in Python module
 psycopg2-binary>=2.9.0  # For PostgreSQL
 
 # Image processing and OCR
-pillow>=9.0.0
+pillow>=10.0.1
 opencv-python>=4.5.0
 pytesseract>=0.3.10
 easyocr>=1.7.0
