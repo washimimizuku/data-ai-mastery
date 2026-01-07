@@ -14,7 +14,7 @@ statsmodels>=0.13.0
 
 # Deep learning for population dynamics
 torch>=1.12.0
-pytorch-lightning>=1.7.0
+pytorch-lightning>=2.3.3
 
 # Population ecology and demographics
 lifelines>=0.27.0  # Survival analysis
