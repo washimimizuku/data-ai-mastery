@@ -28,7 +28,7 @@ isolation-forest>=0.1.0
 # Web interface and dashboards
 streamlit>=1.20.0
 dash>=2.6.0
-bokeh>=2.4.0
+bokeh>=3.8.2
 
 # Data serialization
 avro-python3>=1.10.0
@@ -57,3 +57,4 @@ pytest-cov>=3.0.0
 # redis>=4.3.0            # For caching and pub/sub
 # celery>=5.2.0           # For background tasks
 fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
