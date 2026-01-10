@@ -54,3 +54,4 @@ pytest-cov>=3.0.0
 # whisper>=1.0.0          # OpenAI Whisper for speech recognition
 # speechbrain>=0.5.0      # Advanced speech processing toolkit
 pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
