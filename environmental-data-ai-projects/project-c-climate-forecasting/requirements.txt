@@ -15,7 +15,7 @@ sktime>=0.13.0   # Time series ML toolkit
 
 # Deep learning for time series
 torch>=2.9.0
-pytorch-lightning>=1.7.0
+pytorch-lightning>=2.3.3
 tensorflow>=2.9.0  # Alternative to PyTorch
 
 # Climate data processing
