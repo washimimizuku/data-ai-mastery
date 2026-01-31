@@ -51,3 +51,6 @@ pytest-cov>=3.0.0
 # timm>=0.6.0              # PyTorch image models
 nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
 protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-core>=5.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
