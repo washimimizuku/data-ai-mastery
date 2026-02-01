@@ -68,3 +68,6 @@ setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerabil
 wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
 nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
 protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-core>=5.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
