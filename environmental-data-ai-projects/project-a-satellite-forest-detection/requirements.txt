@@ -45,3 +45,4 @@ pytest-cov>=3.0.0
 # earthengine-api>=0.1.0  # Requires Google Earth Engine account
 # sentinelsat>=1.1.0      # For Sentinel data download
 nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
