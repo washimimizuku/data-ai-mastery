@@ -11,7 +11,7 @@ jupyter>=1.0.0
 torch>=2.10.0
 torchvision>=0.13.0
 opencv-python>=4.5.0
-pillow>=9.0.0
+pillow>=10.0.1
 
 # Object detection
 ultralytics>=8.0.0  # YOLOv8
