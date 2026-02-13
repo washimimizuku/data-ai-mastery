@@ -63,3 +63,4 @@ setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerabil
 tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
 validators>=0.21.0 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
